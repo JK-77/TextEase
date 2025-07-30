@@ -1,38 +1,20 @@
 # 🧠 TextEase — Chrome Extension for Smarter, Easier Web Reading
 
-**TextEase** is a lightweight, AI-powered Chrome extension that improves web accessibility by simplifying, customizing, and enhancing the readability of any webpage — making browsing more inclusive and enjoyable for everyone.
+**TextEase** is a fast, AI-powered Chrome extension that makes web reading simpler and more accessible for everyone.
 
 
-## ✨ Features
+## ✨ Key Features
 
-- 🧠 **AI-based Text Simplification** using the Cohere API  
-- 📚 **Content Summarization** for quick understanding  
-- 🌐 **Works on Any Webpage** seamlessly  
-- 🧩 **Accessibility Modes**  
-  - 🟣 Dyslexia Mode  
-  - 🟡 Colorblind Mode  
-- 🔤 **Text Customization**  
-  - Choose from fonts like *Arial*, *Verdana*, etc.  
-  - Set **font size** and **letter spacing** with sliders  
-  - Toggle **bold** mode  
-  - One-click **reset to defaults**  
-- 🛠️ **Text Tools**  
-  - ✅ Simplify Text  
-  - 🔊 Speak Text (Text-to-Speech)  
-  - 🌍 Translate to any language  
-- 🔉 **Speech Settings**  
-  - Adjust **rate** and **pitch** of voice  
-- 🔐 **Privacy-Conscious** and **Fast**  
-- 🔑 Use your own API key or connect to our backend  
+- 🧠 AI text simplification (via Cohere API)  
+- 📚 Instant content summarization  
+- 🌐 Works on any webpage  
+- ⚡ Lightweight & privacy-friendly  
+- 🔑 Custom API key or connect to backend  
+- 🧩 Accessibility modes (Dyslexia, Colorblind)  
+- 🎨 Text customization (font, size, spacing)  
+- 🛠️ Simplify, translate, and speak text  
+- 🔉 Adjustable speech settings (rate, pitch)
 
-
-## 🚀 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/JK-77/TextEase.git
-cd TextEase
 
 ## 🚀 Installation & Setup
 
