@@ -1,4 +1,4 @@
-# TextSavvy
+# TextEase
 
 A chrome extension to help make web browsing accessible for everyone :)
 
