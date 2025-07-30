@@ -2,8 +2,6 @@
 
 **TextEase** is a lightweight, AI-powered Chrome extension that improves web accessibility by simplifying, summarizing, and enhancing the readability of any webpage — making browsing easier for everyone.
 
----
-
 ## ✨ Features
 
 - ✅ AI-based text simplification using the Cohere API  
@@ -12,7 +10,6 @@
 - ✅ Fast, lightweight, and privacy-conscious  
 - ✅ Use your own API key or connect to our backend server  
 
----
 
 ## 🚀 Installation & Setup
 
@@ -23,8 +20,6 @@ git clone https://github.com/JK-77/TextEase.git
 cd TextEase
 ```
 
----
-
 ### 2. Install Dependencies
 
 Make sure you have **Node.js** and **npm** installed. Then run:
@@ -32,8 +27,6 @@ Make sure you have **Node.js** and **npm** installed. Then run:
 ```bash
 npm install
 ```
-
----
 
 ### 3. (Optional) Use Your Own API Key
 
@@ -50,8 +43,6 @@ COHERE_API_KEY=your_api_key_here
 PORT=10000
 ```
 
----
-
 ### 🧪 Running the Backend Server (If Needed)
 
 If you're using your own API key and want to run the backend server locally:
@@ -66,7 +57,6 @@ This will start the server at:
 http://localhost:10000
 ```
 
----
 
 ### 🔌 Load the Extension in Chrome
 
@@ -77,7 +67,6 @@ http://localhost:10000
 5. Select the folder containing `manifest.json` (root of the project)
 6. The **TextEase** icon should now appear in your Chrome toolbar ✅
 
----
 
 ## 🤝 Contributing
 
