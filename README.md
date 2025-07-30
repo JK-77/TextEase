@@ -1,4 +1,4 @@
-# 🧠 TextEase — Chrome Extension for Smarter, Easier Web Reading
+# 🧠 TextSavvy — Chrome Extension for Smarter, Easier Web Reading
 
 **TextEase** is a fast, AI-powered Chrome extension that makes web reading simpler and more accessible for everyone.
 
